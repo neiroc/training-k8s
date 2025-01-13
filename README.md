@@ -49,10 +49,10 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 ### Resources
 
 📖 Theory
-  - [Slides](https://docs.google.com/presentation/d/1KjGtS7wdBNrE-5YsFXGMfg7wlH9JmKxJ/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true) 
+ 
 
 🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/17eAgouUO88xqPBs89GxQv6kmpyCLprmP/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
+  
 
 ## Day 3
 
@@ -63,11 +63,6 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Health Checks
 - Exercises
 
-📖 Theory
-  - [Slides](https://docs.google.com/presentation/d/10GPGiEE7W0e6iNZEptvz8amUAY6yWFlQ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
-
-🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/1mSx3Y339BcKDmPWO0LAlKfprta04Cz_b/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Day 4
 
@@ -79,11 +74,6 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - ConfigMaps, Secrets
 - Exercise
 
-📖 Theory
-  - [Slides](https://docs.google.com/presentation/d/10uP9jTez7sw89x-mUfJvR3c3KKELEkid/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
-
-🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/1mePJkhhp6R5pbcEYiwtQQWIGK1o0JTOM/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 ## Day 5
 
@@ -93,12 +83,6 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Helm Exercices
 - Operator
 - GitLab/GitHub CICD to deploy resources
-
-📖 Theory
-  - [Slides](https://docs.google.com/presentation/d/1drKCGr5pMbFlET0lTnUcRQvIiR2kCR8q/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
-
-🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/12RPE3CwOD41dMjzBuTnHRmEzihSOsi5D/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
 
 ## 🔗 External Resources

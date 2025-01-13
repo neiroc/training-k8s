@@ -48,11 +48,6 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 
 ### Resources
 
-📖 Theory
- 
-
-🏋️ Practice
-  
 
 ## Day 3
 

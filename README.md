@@ -4,18 +4,24 @@ This 5-day course is designed for developers, system administrators and DevOps p
 
 Each day includes 4 hours of theory to build foundational knowledge and 4 hours of hands-on labs to solidify practical skills.
 
+#### Support Tools
+
+- [Realtime Cliplboard](https://clipboard.strebel.xyz/training-k8s)
+- [Wheel of Names](https://wheelofnames.com/)
+
+# Course Schedule
+
 ## Day 1 
 
 ### Table of Contents
 
-- Docker Engine Installation
-- Running Containers
+- Docker Engine
+- Basic Commands
 - Storage
 - Environment variables
 - Networking introduction
 - Dockerfile
 - Docker Compose
-- Exercises
 
 ### Resources
 
@@ -24,8 +30,8 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 
 
 🏋️ Practice
-  - [Slides](https://docs.google.com/presentation/d/1Vl0h5rAe8MJ_f2Fni-92hTGVXEWC5jD8/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true)
-  - [Quiz](./quiz/docker-questions.md)
+  - [Slides](https://k8s-slides-db4e01.gitlab.io/docker-practice.html)
+
 
 ## Day 2
 
@@ -94,10 +100,6 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 🏋️ Practice
   - [Slides](https://docs.google.com/presentation/d/12RPE3CwOD41dMjzBuTnHRmEzihSOsi5D/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true)
 
-## Training Support Tools
-
-- [Realtime Cliplboard](https://clipboard.strebel.xyz/training-k8s)
-- [Wheel of Names](https://wheelofnames.com/)
 
 ## 🔗 External Resources
 
@@ -117,4 +119,3 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - [Udemy + KodeKloud CKA Course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/?couponCode=ACCAGE0923) (paid 15$)
 
 ## [GitHub Repository](https://github.com/neiroc/training-k8s)
-

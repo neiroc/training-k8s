@@ -65,7 +65,7 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Exercises
 
 📖 Theory
-  - [Slides](https://docs.google.com/presentation/d/10GPGiEE7W0e6iNZEptvz8amUAY6yWFlQ/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
+  - [Slides](https://docs.google.com/presentation/d/1wpnpUnJ_GfuB0CKZqbGM0vuvBIlucn0m/edit?usp=drive_link&ouid=112647801962843308202&rtpof=true&sd=true) 
 
 🏋️ Practice
   - [Slides](https://k8s-slides-db4e01.gitlab.io/k8s-practice-2.html)

@@ -95,6 +95,12 @@ Each day includes 4 hours of theory to build foundational knowledge and 4 hours 
 - Operator
 - GitLab/GitHub CICD to deploy resources
 
+📖 Theory
+  - [Slides](https://docs.google.com/presentation/d/1drKCGr5pMbFlET0lTnUcRQvIiR2kCR8q/edit?usp=sharing&ouid=112647801962843308202&rtpof=true&sd=true) 
+
+🏋️ Practice
+  - [Slides](https://k8s-slides-db4e01.gitlab.io/k8s-practice-4.html)
+
 
 ## 🔗 External Resources
 
